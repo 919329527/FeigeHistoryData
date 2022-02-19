@@ -1,5 +1,7 @@
 #  说明：
 
+照例转了个`.exe`文件出来：  https://fuwenyue.lanzoup.com/ijx8G00ca3ab
+
 #### 一、用途
 
 [飞鸽](https://fxg.jinritemai.com/ffa/mshop/homepage/index) 是抖音店铺的后台管理系统，脚本用于抓取(店铺&客服)：
