@@ -10,7 +10,7 @@
 - 当月数据（1号至昨天）
 - 周数据（昨天-6至昨天）
 
-
+- 数据合并
 
 ![](https://gitee.com/fuwenyue/tuchuang/raw/master/utools/16452752394191645275239350.png)
 
@@ -30,3 +30,6 @@ xxx官方旗舰店
 passport_csrf_token_**********
 ```
 
+#### 三、Pyinstaller
+
+`Pyinstaller -F -i favicon.ico feige.py`
