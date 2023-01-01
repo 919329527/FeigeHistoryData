@@ -105,7 +105,7 @@ def getShopName(Filename):
         shopname = '真我'
     elif '一加官方旗舰店' in Filename:
         shopname = '一加'
-    elif 'OPPO手机旗舰店' in Filename:
+    elif 'OPPO官方旗舰店' in Filename:
         shopname = 'OPPO'
     elif 'OPPO商城旗舰店' in Filename:
         shopname = '欢太'
